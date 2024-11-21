@@ -1,6 +1,7 @@
 import Footer from "./components/footer/footer";
 import Header from "./components/header/header";
-import HomePage from "./components/mainContent/HomePage";
+import HomePage from "./components/homepage/homePage";
+
 
 
 export default function Home() {

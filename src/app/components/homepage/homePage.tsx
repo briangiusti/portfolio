@@ -1,4 +1,4 @@
-export default function MainContent() {
+export default function HomePage() {
   return (
     <>
       <h1>Brian Giusti</h1>
